@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Como es
 
 * 📊 **Área de Dados & Inteligência Artificial**
 * 👁️ **Visão Computacional**
-* ⚙️ **Desenvolvimento Back-end**
+* ⚙️ **Desenvolvimento Full-Stack**
 * 🏆 **Programação Competitiva**
 
 ### 💻 Linguagens e Tecnologias (Em aprendizado):
