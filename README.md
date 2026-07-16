@@ -1,15 +1,15 @@
-# Hello! 👋 I'm Pedro Sarni
+# Olá! 👋 Sou o Pedro Sarni
 
-I'm an Information Systems undergraduate student at ICMC-USP. Currently, my main focus is building a solid foundation in programming logic and algorithms by developing my first projects.
+Sou graduando em Sistemas de Informação pelo ICMC-USP. Atualmente, meu foco principal é construir uma base sólida em lógica de programação e algoritmos, desenvolvendo meus primeiros projetos.
 
-I am passionate about technology and always looking for new challenges. As I am at the beginning of my journey, I have a strong interest in studying and exploring the following areas in the future:
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Como estou no inicio da minha graduação, tenho muito interesse em estudar as seguintes áreas no futuro:
 
-* 📊 **Data Science & Artificial Intelligence**
-* 👁️ **Computer Vision**
-* ⚙️ **Fullstack Development**
-* 🏆 **Competitive Programming**
+* 📊 **Área de Dados & Inteligência Artificial**
+* 👁️ **Visão Computacional**
+* ⚙️ **Desenvolvimento Back-end**
+* 🏆 **Programação Competitiva**
 
-### 💻 Languages and Technologies (Currently learning):
+### 💻 Linguagens e Tecnologias (Em aprendizado):
 <div align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
